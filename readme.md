@@ -1,5 +1,7 @@
 # Тестовое задание от ReTech Labs
 
+[![Build Status](https://travis-ci.com/koyshinov/ReTech-Labs-Task.svg?branch=master)](https://travis-ci.com/koyshinov/ReTech-Labs-Task)
+
 [Техническое задание](tz.pdf)
 
 ## Руководство по установке
