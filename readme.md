@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/koyshinov/ReTech-Labs-Task.svg?branch=master)](https://travis-ci.com/koyshinov/ReTech-Labs-Task) 
 [![Coverage Status](https://coveralls.io/repos/github/koyshinov/ReTech-Labs-Task/badge.svg)](https://coveralls.io/github/koyshinov/ReTech-Labs-Task)
-[![BCH compliance](https://bettercodehub.com/edge/badge/koyshinov/ReTech-Labs-Task?branch=master)](https://bettercodehub.com/)
+[![BCH compliance](https://bettercodehub.com/edge/badge/koyshinov/ReTech-Labs-Task?branch=master)](https://bettercodehub.com/edge/badge/koyshinov/ReTech-Labs-Task?branch=master)
 
 [Техническое задание](tz.pdf)
 
